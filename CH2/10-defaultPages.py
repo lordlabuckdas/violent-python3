@@ -14,7 +14,7 @@ def returnDefault(ftp):
         fn = fileName.lower()
         if '.php' in fn or '.htm' in fn or '.asp' in fn:
             print('[+] Found default page: ' + fileName)
-        retList.append(fileName)
+            retList.append(fileName)
     return retList
 
 if __name__ == '__main__':
