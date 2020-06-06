@@ -4,4 +4,4 @@
 * contains other companion files as well
 * added requirements.txt
 
-**note :** modules like optparse and urllib have been deprecated and replaced with argparse and urllib3
+**note :** modules like optparse and urllib have been depreciated and replaced with argparse and urllib3
