@@ -17,3 +17,9 @@
 * handled hex files with binascii, replacing, slicing and decoding
 * refer this [website](https://www.blackbagtech.com/blog/examining-the-windows-10-recycle-bin/) for theory behind hex files in recycle bin
 * better error handling for unknown and inaccessible files
+
+### [program #3](./3-pdfRead.py)
+
+* download the required pdf for this program from [here](http://www.wired.com/images_blogs/threatlevel/2010/12/ANONOPS_The_Press_Release.pdf)
+* pypdf module has been depreciated, so using PyPDF2 in it's place
+* urlencode, urlparse and urlopen have been changed to different modules
