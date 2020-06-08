@@ -1,5 +1,17 @@
+beautifulsoup4==4.9.1
+certifi==2020.4.5.2
+chardet==3.0.4
+dpkt==1.9.2
 html5lib==1.0.1
+idna==2.9
 mechanize==0.4.5
+pexpect==4.8.0
+Pillow==7.1.2
+ptyprocess==0.6.0
+pygeoip==0.3.2
+PyPDF2==1.26.0
+python-nmap==0.4.1
 six==1.15.0
+soupsieve==2.0.1
 urllib3==1.25.9
 webencodings==0.5.1
