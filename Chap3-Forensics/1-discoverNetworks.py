@@ -20,7 +20,6 @@ def wiglePrint(username, password, netid):
     browser.addheaders = [('Accept', 'text/javascript, text/html, application/xml, text/xml, */*'),
     ('Content-type', 'application/x-www-form-urlencoded; charset=UTF-8'),
     ('User-Agent', 'Mozilla/5.0 (Windows NT 5.2; WOW64) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.47 Safari/536.11r')]
-    browser.open('http://wigle.net')
     reqData = urllib.parse.urlencode({'credential_0': username, 'credential_1': password})
     browser.open('https://wigle.net/login', reqData)
     params = {}
