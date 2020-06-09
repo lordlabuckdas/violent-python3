@@ -2,4 +2,4 @@
 
 ### [program #1](./01-geoIP.py)
 
-* geo.dat is available [here](https://github.com/mbcc2006/GeoLiteCity-data) and move it to /opt/GeoIP/
+* download **geo.dat** from [here](https://github.com/mbcc2006/GeoLiteCity-data) and move it to /opt/GeoIP/
