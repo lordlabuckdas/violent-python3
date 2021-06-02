@@ -13,5 +13,5 @@ PyPDF2==1.26.0
 python-nmap==0.4.1
 six==1.15.0
 soupsieve==2.0.1
-urllib3==1.25.9
+urllib3==1.26.5
 webencodings==0.5.1
