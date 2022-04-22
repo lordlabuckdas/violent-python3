@@ -9,7 +9,7 @@ pexpect==4.8.0
 Pillow==9.0.1
 ptyprocess==0.6.0
 pygeoip==0.3.2
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 python-nmap==0.4.1
 six==1.15.0
 soupsieve==2.0.1
